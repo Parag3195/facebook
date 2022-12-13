@@ -1,0 +1,28 @@
+ 
+ 
+ 
+ 
+ /* ============ breakpoints =========== */
+
+  /* For large devices */
+  @media screen and (max-width:992px){
+    
+  }
+
+  /* For medium devices */
+  @media screen and (max-width:768px){
+    
+  }
+  @media screen and (max-width:576px){
+    #modal-modal-title{
+        background-color: aqua;
+        width: auto;
+     }
+    
+    
+  }
+
+  /* For small devices */
+  @media screen and (max-width:350px){
+    
+  }
